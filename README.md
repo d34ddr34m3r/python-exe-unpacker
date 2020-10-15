@@ -14,6 +14,10 @@ This script glues together several tools available to the community. Hopefully, 
         or if you fancy to have your dependency installed with root permission<br/>
     `sudo pip2 install -r requirements.txt`
 
+## Installation
+```
+pip install git+https://github.com/d34ddr34m3r/python-exe-unpacker.git
+```
 
 ## Getting Started
 - python python_exe_unpack.py -i [malware.exe]
